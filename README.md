@@ -1,4 +1,4 @@
-# Flux: Filmler
+# Flux: Filmler Gizlilik Politikası
 
 Son Güncelleme Tarihi: 10.11.2023
 
